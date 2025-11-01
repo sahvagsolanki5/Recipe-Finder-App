@@ -3,7 +3,7 @@
 ## A web application to search and explore delicious recipes with detailed ingredients and cooking instructions.
 
 ## 📸 Screenshots
-![Weather-widget](Screenshot.png) 
+![](screenshot.png) 
 
 
 ## 🚀 Features
@@ -16,7 +16,6 @@
 - CSS  
 - JavaScript    
 
-## 📸 Screenshots
-_Add screenshots or demo images here_
+
 
 
